@@ -118,7 +118,7 @@ class PaymentsProgramApi
     /**
      * Operation getPaymentsProgram
      *
-     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller&#39;s status. (required)
+     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller's status. (required)
      * @param  string $payments_program_type This path parameter specifies the payments program whose status is returned by the call. Currently the only supported payments program is EBAY_PAYMENTS. For details on the program, see Payments Terms of Use. (required)
      *
      * @throws \eBay\Sell\Account\ApiException on non-2xx response
@@ -134,7 +134,7 @@ class PaymentsProgramApi
     /**
      * Operation getPaymentsProgramWithHttpInfo
      *
-     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller&#39;s status. (required)
+     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller's status. (required)
      * @param  string $payments_program_type This path parameter specifies the payments program whose status is returned by the call. Currently the only supported payments program is EBAY_PAYMENTS. For details on the program, see Payments Terms of Use. (required)
      *
      * @throws \eBay\Sell\Account\ApiException on non-2xx response
@@ -223,7 +223,7 @@ class PaymentsProgramApi
      *
      * 
      *
-     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller&#39;s status. (required)
+     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller's status. (required)
      * @param  string $payments_program_type This path parameter specifies the payments program whose status is returned by the call. Currently the only supported payments program is EBAY_PAYMENTS. For details on the program, see Payments Terms of Use. (required)
      *
      * @throws \InvalidArgumentException
@@ -244,7 +244,7 @@ class PaymentsProgramApi
      *
      * 
      *
-     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller&#39;s status. (required)
+     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller's status. (required)
      * @param  string $payments_program_type This path parameter specifies the payments program whose status is returned by the call. Currently the only supported payments program is EBAY_PAYMENTS. For details on the program, see Payments Terms of Use. (required)
      *
      * @throws \InvalidArgumentException
@@ -292,7 +292,7 @@ class PaymentsProgramApi
     /**
      * Create request for operation 'getPaymentsProgram'
      *
-     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller&#39;s status. (required)
+     * @param  string $marketplace_id This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller's status. (required)
      * @param  string $payments_program_type This path parameter specifies the payments program whose status is returned by the call. Currently the only supported payments program is EBAY_PAYMENTS. For details on the program, see Payments Terms of Use. (required)
      *
      * @throws \InvalidArgumentException

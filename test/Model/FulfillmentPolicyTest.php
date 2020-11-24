@@ -35,7 +35,7 @@ use PHPUnit\Framework\TestCase;
  * FulfillmentPolicyTest Class Doc Comment
  *
  * @category    Class
- * @description This root response container defines a seller&#39;s fulfillment policy for a specific marketplace and category type. fulfillmentPolicy encapsulates a seller&#39;s terms for fulfilling an order and includes the shipping carriers and services used for shipment and time the seller takes to ship an order. While each seller must define at least one fulfillment policy for every marketplace into which they sell, sellers can define multiple fulfillment policies for a single marketplace by specifying different configurations for the unique policies.
+ * @description This root response container defines a seller's fulfillment policy for a specific marketplace and category type. fulfillmentPolicy encapsulates a seller's terms for fulfilling an order and includes the shipping carriers and services used for shipment and time the seller takes to ship an order. While each seller must define at least one fulfillment policy for every marketplace into which they sell, sellers can define multiple fulfillment policies for a single marketplace by specifying different configurations for the unique policies.
  * @package     eBay\Sell\Account
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

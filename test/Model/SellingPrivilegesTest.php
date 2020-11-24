@@ -35,7 +35,7 @@ use PHPUnit\Framework\TestCase;
  * SellingPrivilegesTest Class Doc Comment
  *
  * @category    Class
- * @description A merchant&#39;s selling limit, and the status of their account registration.
+ * @description A merchant's selling limit, and the status of their account registration.
  * @package     eBay\Sell\Account
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

@@ -36,7 +36,7 @@ use \eBay\Sell\Account\ObjectSerializer;
  * CategoryType Class Doc Comment
  *
  * @category Class
- * @description The category type discerns whether the policy covers the sale of motor vehicles (via eBay Motors), or the sale of everything except motor vehicles. Each business policy can be associated with either or both categories (&#39;MOTORS_VEHICLES&#39; and &#39;ALL_EXCLUDING_MOTORS_VEHICLES&#39;); however,the &#39;MOTORS_VEHICLES&#39; category type is not valid for return policies&amp;ndash;return policies cannot be used with motor vehicle listings.
+ * @description The category type discerns whether the policy covers the sale of motor vehicles (via eBay Motors), or the sale of everything except motor vehicles. Each business policy can be associated with either or both categories ('MOTORS_VEHICLES' and 'ALL_EXCLUDING_MOTORS_VEHICLES'); however,the 'MOTORS_VEHICLES' category type is not valid for return policies&ndash;return policies cannot be used with motor vehicle listings.
  * @package  eBay\Sell\Account
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

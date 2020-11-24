@@ -35,7 +35,7 @@ use PHPUnit\Framework\TestCase;
  * ReturnPolicyTest Class Doc Comment
  *
  * @category    Class
- * @description Root container that defines the fields for a seller&#39;s return policy. The returnPolicy encapsulates a seller&#39;s terms for how they handle item returns, the name and description of the policy, and the marketplace and category group(s) to which the return policy is applied. While each seller must define at least one return policy for every marketplace into which they sell, sellers can define multiple return policies for a single marketplace by specifying different configurations for the unique policies.
+ * @description Root container that defines the fields for a seller's return policy. The returnPolicy encapsulates a seller's terms for how they handle item returns, the name and description of the policy, and the marketplace and category group(s) to which the return policy is applied. While each seller must define at least one return policy for every marketplace into which they sell, sellers can define multiple return policies for a single marketplace by specifying different configurations for the unique policies.
  * @package     eBay\Sell\Account
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

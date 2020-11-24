@@ -36,7 +36,7 @@ use \eBay\Sell\Account\ObjectSerializer;
  * RecipientAccountReference Class Doc Comment
  *
  * @category Class
- * @description Recipient account information, like PayPal email. If the payment method is PayPal, this structure contains the recipient&#39;s PayPal email address.
+ * @description Recipient account information, like PayPal email. If the payment method is PayPal, this structure contains the recipient's PayPal email address.
  * @package  eBay\Sell\Account
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

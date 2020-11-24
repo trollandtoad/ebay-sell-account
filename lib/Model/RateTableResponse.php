@@ -36,7 +36,7 @@ use \eBay\Sell\Account\ObjectSerializer;
  * RateTableResponse Class Doc Comment
  *
  * @category Class
- * @description The response container for with information on a seller&#39;s shipping rate tables.
+ * @description The response container for with information on a seller's shipping rate tables.
  * @package  eBay\Sell\Account
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

@@ -35,7 +35,7 @@ use PHPUnit\Framework\TestCase;
  * InternationalReturnOverrideTypeTest Class Doc Comment
  *
  * @category    Class
- * @description This type defines the fields for a seller&#39;s international return policy. If a seller does not populate the fields in this complex type, the international return policy defaults to the return policy set for domestic returns.
+ * @description This type defines the fields for a seller's international return policy. If a seller does not populate the fields in this complex type, the international return policy defaults to the return policy set for domestic returns.
  * @package     eBay\Sell\Account
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

@@ -35,7 +35,7 @@ use PHPUnit\Framework\TestCase;
  * SellingLimitTest Class Doc Comment
  *
  * @category    Class
- * @description Defines the selling limit applied to an eBay seller&#39;s account.
+ * @description Defines the selling limit applied to an eBay seller's account.
  * @package     eBay\Sell\Account
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

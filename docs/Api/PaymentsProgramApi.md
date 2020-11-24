@@ -49,7 +49,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **marketplace_id** | **string**| This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller&#39;s status. |
+ **marketplace_id** | **string**| This path parameter specifies the eBay marketplace of the payments program for which you want to retrieve the seller's status. |
  **payments_program_type** | **string**| This path parameter specifies the payments program whose status is returned by the call. Currently the only supported payments program is EBAY_PAYMENTS. For details on the program, see Payments Terms of Use. |
 
 ### Return type

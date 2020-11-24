@@ -36,7 +36,7 @@ use \eBay\Sell\Account\ObjectSerializer;
  * ReturnPolicy Class Doc Comment
  *
  * @category Class
- * @description Root container that defines the fields for a seller&#39;s return policy. The returnPolicy encapsulates a seller&#39;s terms for how they handle item returns, the name and description of the policy, and the marketplace and category group(s) to which the return policy is applied. While each seller must define at least one return policy for every marketplace into which they sell, sellers can define multiple return policies for a single marketplace by specifying different configurations for the unique policies.
+ * @description Root container that defines the fields for a seller's return policy. The returnPolicy encapsulates a seller's terms for how they handle item returns, the name and description of the policy, and the marketplace and category group(s) to which the return policy is applied. While each seller must define at least one return policy for every marketplace into which they sell, sellers can define multiple return policies for a single marketplace by specifying different configurations for the unique policies.
  * @package  eBay\Sell\Account
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech
@@ -493,7 +493,7 @@ class ReturnPolicy implements ModelInterface, ArrayAccess, \JsonSerializable
     /**
      * Sets return_instructions
      *
-     * @param string|null $return_instructions Important! This field is being deprecated on many marketplaces. Once deprecated, this field will be ignored on marketplaces where it is not supported and it will neither be read nor returned. This optional field contains the seller's detailed explanation for their return policy and is displayed in the Return Policy section of the View Item page. This field is valid in only the following marketplaces (the field is otherwise ignored): Germany (DE) Spain (ES) France (FR) Italy (IT) Where valid, sellers can use this field to add details about their return policies. eBay uses this text string as-is in the Return Policy section of the View Item page. Avoid HTML and avoid character entity references (such as &amp;amp;pound; or &amp;amp;#163;). To include special characters in the return policy description, use the literal UTF-8 or ISO-8559-1 character (e.g. &amp;#163;). Max length: 5000 (8000 for DE)
+     * @param string|null $return_instructions Important! This field is being deprecated on many marketplaces. Once deprecated, this field will be ignored on marketplaces where it is not supported and it will neither be read nor returned. This optional field contains the seller's detailed explanation for their return policy and is displayed in the Return Policy section of the View Item page. This field is valid in only the following marketplaces (the field is otherwise ignored): Germany (DE) Spain (ES) France (FR) Italy (IT) Where valid, sellers can use this field to add details about their return policies. eBay uses this text string as-is in the Return Policy section of the View Item page. Avoid HTML and avoid character entity references (such as &pound; or £). To include special characters in the return policy description, use the literal UTF-8 or ISO-8559-1 character (e.g. £). Max length: 5000 (8000 for DE)
      *
      * @return self
      */

@@ -511,7 +511,7 @@ class SetFulfillmentPolicyResponse implements ModelInterface, ArrayAccess, \Json
     /**
      * Sets pickup_drop_off
      *
-     * @param bool|null $pickup_drop_off If set to true, the seller offers the &quot;Click and Collect&quot; option. Currently, &quot;Click and Collect&quot; is available only to large retail merchants the eBay AU and UK marketplaces.
+     * @param bool|null $pickup_drop_off If set to true, the seller offers the "Click and Collect" option. Currently, "Click and Collect" is available only to large retail merchants the eBay AU and UK marketplaces.
      *
      * @return self
      */

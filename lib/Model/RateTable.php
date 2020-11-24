@@ -289,7 +289,7 @@ class RateTable implements ModelInterface, ArrayAccess, \JsonSerializable
     /**
      * Sets name
      *
-     * @param string|null $name The user-defined name for the shipping rate table. Sellers can access Seller Hub (or My eBay &gt; Account &gt; Site Preferences &gt; Shipping preferences) to create and assign names to their shipping rate tables.
+     * @param string|null $name The user-defined name for the shipping rate table. Sellers can access Seller Hub (or My eBay > Account > Site Preferences > Shipping preferences) to create and assign names to their shipping rate tables.
      *
      * @return self
      */

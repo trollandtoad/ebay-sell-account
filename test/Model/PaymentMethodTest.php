@@ -35,7 +35,7 @@ use PHPUnit\Framework\TestCase;
  * PaymentMethodTest Class Doc Comment
  *
  * @category    Class
- * @description Container specifying a payment method that is accepted by the seller. Specify multiple payment methods by repeating this container. For more on payment methods, see Accepted payments policy. Note that payment methods are not applicable to classified ad listings &amp;ndash; all classified ad payments are handled off of the eBay platform.
+ * @description Container specifying a payment method that is accepted by the seller. Specify multiple payment methods by repeating this container. For more on payment methods, see Accepted payments policy. Note that payment methods are not applicable to classified ad listings &ndash; all classified ad payments are handled off of the eBay platform.
  * @package     eBay\Sell\Account
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

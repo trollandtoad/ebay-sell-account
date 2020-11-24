@@ -10,6 +10,6 @@ Name | Type | Description | Notes
 **offset** | **int** | The number of results skipped in the result set before listing the first returned result. Note: The items in a paginated result set use a zero-based list where the first item in the list has an offset of 0. | [optional]
 **prev** | **string** | The URI for the preceding page of results. This value is returned only if there is a previous page of results to display from the result set. Max length: 2048 | [optional]
 **total** | **int** | The total number of items retrieved in the result set. If no items are found, this field is returned with a value of 0. | [optional]
-**payment_policies** | [**\eBay\Sell\Account\Model\PaymentPolicy[]**](PaymentPolicy.md) | A list of the seller&#39;s payment policies. | [optional]
+**payment_policies** | [**\eBay\Sell\Account\Model\PaymentPolicy[]**](PaymentPolicy.md) | A list of the seller's payment policies. | [optional]
 
 [[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

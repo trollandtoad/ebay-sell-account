@@ -4,7 +4,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**fulfillment_policies** | [**\eBay\Sell\Account\Model\FulfillmentPolicy[]**](FulfillmentPolicy.md) | A list of the seller&#39;s fulfillment policies. | [optional]
+**fulfillment_policies** | [**\eBay\Sell\Account\Model\FulfillmentPolicy[]**](FulfillmentPolicy.md) | A list of the seller's fulfillment policies. | [optional]
 **href** | **string** | The URI of the current page of results from the result set. | [optional]
 **limit** | **int** | The number of items returned on a single page from the result set. | [optional]
 **next** | **string** | The URI for the following page of results. This value is returned only if there is an additional page of results to display from the result set. Max length: 2048 | [optional]
